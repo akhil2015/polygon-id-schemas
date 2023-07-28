@@ -63,7 +63,7 @@
         }
       },
       "KYCCityOfResidenceCredential": {
-        "@id": "https://raw.githubusercontent.com/akhil2015/polygon-id-schemas/main/schemas/json-ld/kyc.json-ld#KYCCityOfResidenceCredential",
+        "@id": "https://raw.githubusercontent.com/akhil2015/polygon-id-schemas/master/schemas/json-ld/kyc.json-ld#KYCCityOfResidenceCredential",
         "@context": {
           "@version": 1.1,
           "@protected": true,
